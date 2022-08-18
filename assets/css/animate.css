@@ -1,31 +1,39 @@
+/* = = = = = = = = = = Animate Styles = = = = = = = = = = */
 .main-header,
 .page-image,
 .page-content,
 .about-container,
 .post-card-box {
+  -webkit-animation-duration: 0.7s;
   animation-duration: 0.7s;
+  -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
+  -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
 }
 
-.main-header,
+/* .main-header,
 .page-image {
-  animation-delay: 0.5s;
-}
+  -webkit-animation-delay: 0s;
+  animation-delay: 0s;
+} */
 
 .page-content,
 .about-container,
 .post-card-box {
-  animation-delay: 0.75s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
 }
 
 @-webkit-keyframes fadeInDown {
   from {
     opacity: 0;
+    -webkit-transform: translateY(-20px);
     transform: translateY(-20px);
   }
   to {
     opacity: 1;
+    -webkit-transform: translateY(0);
     transform: translateY(0);
   }
 }
@@ -33,10 +41,12 @@
 @keyframes fadeInDown {
   from {
     opacity: 0;
+    -webkit-transform: translateY(-20px);
     transform: translateY(-20px);
   }
   to {
     opacity: 1;
+    -webkit-transform: translateY(0);
     transform: translateY(0);
   }
 }

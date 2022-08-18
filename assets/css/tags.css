@@ -1,0 +1,47 @@
+/* = = = = = = = = = = Tags Styles = = = = = = = = = = */
+.blog-tags {
+  margin: 100px 0 100px;
+}
+
+.blog-tags h1 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  text-align: center;
+  margin: 0 0 30px;
+  color: #311e3e;
+}
+
+.blog-tags .tags {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.blog-tags .tags li a {
+  display: inline-block;
+  color: #311e3e;
+}
+
+.blog-tags .tags li a:hover {
+  opacity: 0.8;
+}
+
+.blog-tags .tag-list span a {
+  display: inline-block;
+  color: #87314e;
+  text-decoration: none;
+  /* text-transform: uppercase; */
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.blog-tags .tag-list span a:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+.blog-tags .tag-list small {
+  color: #311e3e;
+}

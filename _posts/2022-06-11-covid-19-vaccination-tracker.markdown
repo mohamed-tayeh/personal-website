@@ -4,6 +4,7 @@ title: COVID-19 Vaccination Tracker
 date: 2022-06-11
 description: A global COVID19 vaccination tracker website
 img: covidVaccination.png
+tags: [Project]
 ---
 
 This was a self-driven project as part of our [CSCC09] course (Programming on the Web) as a team of 3.

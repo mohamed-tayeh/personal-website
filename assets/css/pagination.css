@@ -1,0 +1,26 @@
+/* = = = = = = = = = = Pagination Styles = = = = = = = = = = */
+.pagination {
+  margin-bottom: 30px;
+}
+
+.pagination .previous {
+  float: left;
+}
+
+.pagination .next {
+  float: right;
+}
+
+.pagination .previous,
+.pagination .next {
+  text-decoration: none;
+  /* text-transform: uppercase; */
+  font-size: 14px;
+  color: #3e3e40;
+}
+
+.pagination .previous:hover,
+.pagination .next:hover {
+  opacity: 0.8;
+  color: #87314e;
+}
