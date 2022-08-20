@@ -11,7 +11,7 @@ url: "https://mohamedtayeh.com" # the base hostname & protocol for your site, e.
 # Author settings
 author: Mohamed Tayeh 
 author-pic: mohamedTayeh.png
-about-author: A Statistics Specialist (Data Mining and Machine Learning) and Computer Science Major
+about-author: Computer Science Major and Statistics Specialist (Data Mining and Machine Learning) 
 
 # Contact links
 email: mohamedntayeh@gmail.com # Add your Email address
@@ -23,6 +23,7 @@ twitter: '@artemsheludko_' # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: mohamedntayeh # Add your Instagram handle
 pinterest: # Add your Pinterest handle
+twitch: moh__t
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
