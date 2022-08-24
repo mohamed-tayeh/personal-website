@@ -1,0 +1,8 @@
+---
+layout: post
+title: Integrated Technology Group (ITG)
+date: 2019-07-06
+description: Frontend Intern
+img: itg.png
+tags: [Work]
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Undergraduate Education
+date: 2022-08-22
+description: University of Toronto
+imgSmall: uoftSmall.png
+img: uoft.png
+imgBig: uoftBig.png
+tags: [Academic]
+---
