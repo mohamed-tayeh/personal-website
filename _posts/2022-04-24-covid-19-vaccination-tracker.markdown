@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID-19 Vaccination Tracker
-date: 2022-06-11
+date: 2022-04-24
 description: A global COVID19 vaccination tracker website
 img: covidVaccination.png
 tags: [Project]
@@ -11,7 +11,7 @@ This was a self-driven project as part of our [CSCC09] course (Programming on th
 
 The motivation was to simplify the COVID-19 vaccination statistics for anyone to understand, even without being statisticically or mathematically oreinted. Due to the global nature, we implemented internationalization to broaden the target audience.
 
-The website can be reached [here] and the code is available in this [repository].
+[Website] &#8226; [Video Walk Through] &#8226; [Source Code]
 
 Thank you to everyone who I have worked with to achieve this goal!
 
@@ -52,6 +52,7 @@ Other:
 [josaias]: https://www.twitch.tv/studycoach
 [mile]: https://www.twitch.tv/gatoslivrosecia
 [yasmim]: https://www.twitch.tv/mileeveli
-[here]: https://covid.mohamedtayeh.com/
+[website]: https://covid.mohamedtayeh.com/
 [cscc09]: https://utsc.calendar.utoronto.ca/course/cscc09h3
-[repository]: https://github.com/UTSCC09/project-fullstackarmy
+[source code]: https://github.com/UTSCC09/project-fullstackarmy
+[video walk through]: https://www.youtube.com/watch?v=IuJ9-EEIx9g

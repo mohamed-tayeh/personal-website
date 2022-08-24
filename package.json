@@ -1,10 +1,7 @@
 {
-  "name": "Jekyll-Gulp-Sass-Autoprefixer-Imagemin-BrowserSync",
   "version": "1.0.0",
-  "description": "A starter project for Jekyll",
   "main": "index.js",
-  "repository": "https://github.com/artemsheludko/Jekyll-Gulp-Sass-Autoprefixer-Imagemin-BrowserSync",
-  "author": "Artem Sheludko",
+  "author": "Mohamed Tayeh",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.8",
