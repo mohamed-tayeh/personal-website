@@ -5,7 +5,11 @@ layout: default
   {% include header.html %}
   <article class="article-page">
     <div class="page-image">
-      <div class="cover-image" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : page.img}}) center no-repeat; background-size: cover;"></div>
+      {% if page.imgBig %}
+        <div class="cover-image" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : page.imgBig}}) center no-repeat; background-size: cover;"></div>
+      {% else %}
+        <div class="cover-image" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : page.img}}) center no-repeat; background-size: cover;"></div>
+      {% endif %}
     </div>
     <div class="wrapper">
       <div class="page-content">
