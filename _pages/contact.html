@@ -4,4 +4,85 @@ title: Contact
 permalink: /contact/
 ---
 
-<h3>Contact me!</h3>
+<h3 class="formHeader">Contact Form</h3>
+
+<form
+  id="contactForm"
+  action="https://formspree.io/f/xyyvzevl"
+  method="POST"
+  class="form"
+>
+  <input
+    type="text"
+    placeholder="Name"
+    class="formInput"
+    name="name"
+    required
+  />
+  <input
+    type="email"
+    placeholder="E-mail"
+    class="formInput"
+    name="email"
+    required
+  />
+  <textarea
+    class="formTextarea"
+    name="message"
+    placeholder="Please enter your message here"
+    cols="25"
+    rows="8"
+    maxlength="1168"
+    required
+  ></textarea>
+  <div class="formBottom">
+    <div id="formStatus"></div>
+    <input type="submit" class="formSubmit" value="Send" />
+  </div>
+</form>
+
+<script>
+  // Form submission
+  const form = document.getElementById('contactForm');
+
+  function handleSubmit(event) {
+    event.preventDefault();
+    const status = document.getElementById('formStatus');
+    const data = new FormData(event.target);
+
+    fetch(event.target.action, {
+      method: form.method,
+      body: data,
+      headers: {
+        Accept: 'application/json',
+      },
+    })
+      .then((response) => {
+        if (response.ok) {
+          status.innerHTML = 'Thank you for your submission!';
+          form.reset();
+
+          setTimeout(() => {
+            status.innerHTML = '';
+          }, 2000);
+        } else {
+          response.json().then((data) => {
+            if (Object.hasOwn(data, 'errors')) {
+              status.innerHTML = data['errors']
+                .map((error) => error['message'])
+                .join(', ');
+            } else {
+              status.innerHTML =
+                'Oops! There was a problem, please try to re-submit.';
+            }
+          });
+        }
+      })
+      .catch((error) => {
+        status.innerHTML =
+          'Oops! There was a problem, please try to re-submit.';
+      });
+  }
+
+  form.addEventListener('submit', handleSubmit);
+</script>
