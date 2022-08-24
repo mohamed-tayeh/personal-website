@@ -7,6 +7,10 @@
   margin-top: 25px;
 }
 
+.post-card-box:last-child {
+  margin-bottom: 45px;
+}
+
 .post-card-box li {
   position: relative;
   list-style: none;
