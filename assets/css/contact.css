@@ -59,7 +59,7 @@ textarea:focus {
 .formSubmit:hover {
   cursor: pointer;
   color: #87314e;
-  border-color: #999;
+  border-color: #87314e;
   opacity: 1;
 }
 
