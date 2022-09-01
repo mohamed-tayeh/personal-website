@@ -1,0 +1,13 @@
+.gif-container {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+}
+
+.multiple-gif-container {
+  width: 100%;
+
+  display: flex;
+  justify-content: space-evenly;
+}
