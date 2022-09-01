@@ -13,11 +13,16 @@ This project was a component of [CSCC10] course (Human Computer Interaction), wh
 
 [Prototype] &#8226; [Research Paper]
 
+|            Canada.ca            | &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; |            Prototype             |
+| :-----------------------------: | :-------------------------------------------------------------------: | :------------------------------: |
+| ![](../assets/img/canadaca.png) | &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; | ![](../assets/img/prototype.png) |
+
 Technology used:
 
 ```
 Balsamiq
 Font Awesome
+Google Forms
 ```
 
 [canada.ca]: https://www.canada.ca/en.html

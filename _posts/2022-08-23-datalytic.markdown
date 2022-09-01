@@ -9,7 +9,7 @@ imgBig: datalyticBig.png
 tags: [Project]
 ---
 
-This was a self driven project as part of our [CSCC01] course (Introduction to Software Engineering) as a team of 6.
+As a team of 6, we created Datalytic as part of our [CSCC01] course (Introduction to Software Engineering).
 
 Motivation and Project Description:
 
@@ -19,7 +19,7 @@ Motivation and Project Description:
 - There are already existing platforms that provide businesses with a unified source to gather this data, as well as mine information from it. One example is Microsoft Dynamics 365 that has this capability, however it costs $1,500 per user to obtain and understand this feedback - making it an infeasible expense for small businesses, startups and content creators.
 - Our platform would provide this audience with a tool that acts as a unified source to obtain this information and make sense of it, especially to small business owners and content-creators.
 
-[Website] &#8226; [Source Code] &#8226; [Final Presentation]
+[Website] &#8226; [Source Code]
 
 A big thank you to my group for making this possible:
 
@@ -28,6 +28,10 @@ A big thank you to my group for making this possible:
 - [Karandeep Lubana]
 - [Jiaming Yang]
 - [Connie Lin]
+
+Final Presentation:
+
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/dCKEmlIhPNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Technology used:
 
@@ -59,7 +63,6 @@ Deployment:
 [cscc01]: https://utsc.calendar.utoronto.ca/course/cscc01h3
 [website]: https://www.datalytic.ml/
 [source code]: https://github.com/UTSCCSCC01/finalprojects22-byte-peeps
-[final presentation]: https://youtu.be/dCKEmlIhPNc
 [bassel ashi]: https://github.com/BasselAshi
 [juan camilo corral]: https://github.com/Wikisaqui
 [karandeep lubana]: https://github.com/KarandeepLubana
