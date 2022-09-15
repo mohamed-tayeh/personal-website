@@ -5,9 +5,26 @@
   justify-content: center;
 }
 
-.multiple-gif-container {
+.multiple-demo-container {
   width: 100%;
 
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.multiple-demo-container img {
+  margin: 10px 0;
+}
+
+.demo-with-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.border {
+  border: 1px solid #87314e;
+  border-radius: 3px;
 }
