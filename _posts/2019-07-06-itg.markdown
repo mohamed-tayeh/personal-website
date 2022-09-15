@@ -6,3 +6,17 @@ description: Frontend Intern
 img: itg.png
 tags: [Work]
 ---
+
+June 2019 - July 2019
+
+Used to a learn-by-doing strategy to achieve a basic skill level in HTML, CSS and Bootstrap under supervision. The end goal was to code a responsive homepage replica of an official website that was made by [ITG] to achieve a beginner skill level in HTML, CSS and Bootstrap.
+
+### **Technology used:**
+
+```
+HTML
+CSS
+Bootstrap
+```
+
+[itg]: https://www.linkedin.com/company/integrated-technology-group-itg-/?originalSubdomain=ca
