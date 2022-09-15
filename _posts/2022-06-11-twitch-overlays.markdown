@@ -14,7 +14,7 @@ Overlays:
 - Minimal Pomodoro Timer ([Source Code](https://github.com/mohamed-tayeh/Minimal-Pomo-Timer)): An overlay with a timer that follows the [pomodoro technique]. It is currently being used by 6 streamers (including myself).
 - Forest Overlay ([Source code](https://github.com/mohamed-tayeh/forest-overlay)): An overlay that displays the code to join a private Forest room in the [Forest App].
 
-Minimal Pomodoro Timer Demo:
+Minimal Pomodoro Timer Demo (sped up):
 
 <div class="gif-container">
   <img src="../assets/gif/minimalPomoTimer.gif" alt="Minimal Pomodoro Timer" width="600px" height="328px" />
@@ -26,7 +26,7 @@ Forest Overlay Demo:
   <img src="../assets/gif/forestOverlay.gif" alt="Forest Overlay" width="600px" height="328px"/>
 </div>
 
-Technoligies used:
+### **Technology used:**
 
 ```
 Javascript

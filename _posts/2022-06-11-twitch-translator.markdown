@@ -7,7 +7,7 @@ img: twitchTranslator.png
 tags: [Project]
 ---
 
-This is a simple translator bot that I use for [my stream] to communicate with viewers from different backgrounds where English is not their first language.
+This is a simple translator bot that I use for [my stream] to communicate with viewers from different backgrounds where English is not their first language. It currently supports all languages supported by google translate found [here].
 
 It is currently being used by 34 streamers (including myself).
 
@@ -19,7 +19,7 @@ Demo:
   <img src="../assets/gif/twitchTranslator.gif" alt="Twitch Translator" height="588px" width="244px"/>
 </div>
 
-Technoligies used:
+### **Technology used:**
 
 ```
 Javascript
@@ -27,3 +27,4 @@ Google Translate API
 ```
 
 [my stream]: https://www.twitch.tv/moh__t
+[here]: https://developers.google.com/admin-sdk/directory/v1/languages

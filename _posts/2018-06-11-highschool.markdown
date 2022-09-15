@@ -9,7 +9,7 @@ tags: [Academic]
 
 Programs:
 
-- IBDP (International Baccaualaureate Diploma Program) - Grades 11 and 12 at Amman Baccaluareate School (ABS).
+- IBDP (International Baccaualaureate Diploma Program) - Grades 11 and 12 at Amman Baccaluareate School (ABS)
 - I/GCSE (International General Certificate of Secondary Education) - Grades 9 and 10 at New Cairo British International School (NCBIS )
 
 Distinctions:

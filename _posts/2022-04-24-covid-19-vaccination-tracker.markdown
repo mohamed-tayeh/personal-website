@@ -24,7 +24,7 @@ Walk Through:
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/IuJ9-EEIx9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Technology used:
+### **Technology used:**
 
 ```
 Frontend:

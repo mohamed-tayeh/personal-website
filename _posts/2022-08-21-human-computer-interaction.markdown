@@ -13,11 +13,19 @@ This project was a component of [CSCC10] course (Human Computer Interaction), wh
 
 [Prototype] &#8226; [Research Paper]
 
-|            Canada.ca            | &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; |            Prototype             |
-| :-----------------------------: | :-------------------------------------------------------------------: | :------------------------------: |
-| ![](../assets/img/canadaca.png) | &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; | ![](../assets/img/prototype.png) |
+<div class="multiple-demo-container">
+  <div class="demo-with-title">
+    <div class="title">Canada.ca</div>
+    <img src="../assets/img/canadaca.png" class="border" width="470px" height="510px" alt="Canada.ca"/>
+  </div>
 
-Technology used:
+  <div class="demo-with-title">
+    <div class="title">Prototype</div>
+    <img src="../assets/img/prototype.png" class="border" width="470px" height="510px" alt="Prototype"/>
+  </div>
+</div>
+
+### **Technology used:**
 
 ```
 Balsamiq
