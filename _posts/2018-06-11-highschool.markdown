@@ -15,6 +15,7 @@ tags: [Academic]
 ### Distinctions
 
 - Amman Baccaluareate School Valedictorian
+- Merit Scholarship at Amman Baccaluareate School
 - GCSE Mathematics - Highest Mark in the World
 - GCSE French - Highest Mark in the World
 - IGCSE Further Pure Mathematics - Highest Mark in Africa (self-taught in 4 months compared to the standard 18 months school period)
