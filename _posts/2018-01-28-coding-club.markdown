@@ -19,7 +19,7 @@ Final Project Demo:
   <img src="../assets/gif/bouncingHeadGame.gif" class="border" alt="Bouncing Head Game Demo" height="469px" width="598px"/>
 </div>
 
-### **Technology used:**
+### Technology used
 
 ```
 Python
@@ -28,3 +28,4 @@ PyGame
 
 [ali baker]: https://www.linkedin.com/in/ali-baker-a17914172/
 [excercises source code]: https://github.com/mohamed-tayeh/ABS-Programming-Club
+[python for kid: a playful introduction to programming]: https://www.amazon.ca/Python-Kids-Playful-Introduction-Programming-ebook/dp/B00ADX21Z6

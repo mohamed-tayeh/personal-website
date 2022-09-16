@@ -11,7 +11,7 @@ These projects were exercises and assignments part of [CSCD84] (Artificial Intel
 
 We learned the basics of efficient search algorthims, constraint satisfaction problems, mini-max backtracking for game based problems, reinforcement Learning and neural Networks.
 
-### **Exercises**
+### Exercises
 
 #### Mars Short Path Finding
 
@@ -38,7 +38,7 @@ Car must not leave the road or hit junk on the road.
   <img src="../assets/gif/selfDrivingCar.gif" alt="Self Driving Car"/>
 </div>
 
-### **Projects**
+### Projects
 
 #### Mice and Cats
 
@@ -85,7 +85,7 @@ Digit 9, correct classification rate=0.947917
 Average correct classification rate: 0.973717
 ```
 
-### **Technology used:**
+### Technology used
 
 ```
 C

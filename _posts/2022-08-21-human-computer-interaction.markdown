@@ -13,6 +13,8 @@ This project was a component of [CSCC10] course (Human Computer Interaction), wh
 
 [Prototype] &#8226; [Research Paper]
 
+Design demo:
+
 <div class="multiple-demo-container">
   <div class="demo-with-title">
     <div class="title">Canada.ca</div>
@@ -25,7 +27,7 @@ This project was a component of [CSCC10] course (Human Computer Interaction), wh
   </div>
 </div>
 
-### **Technology used:**
+### Technology used
 
 ```
 Balsamiq

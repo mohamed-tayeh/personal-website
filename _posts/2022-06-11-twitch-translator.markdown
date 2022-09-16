@@ -19,7 +19,7 @@ Demo:
   <img src="../assets/gif/twitchTranslator.gif" alt="Twitch Translator" height="588px" width="244px"/>
 </div>
 
-### **Technology used:**
+### Technology used
 
 ```
 Javascript
