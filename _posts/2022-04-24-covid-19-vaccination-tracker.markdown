@@ -3,7 +3,7 @@ layout: post
 title: COVID-19 Vaccination Tracker
 date: 2022-04-24
 description: A global COVID19 vaccination tracker website
-img: covidVaccination.png
+img: covidVaccination.webp
 tags: [Project]
 ---
 

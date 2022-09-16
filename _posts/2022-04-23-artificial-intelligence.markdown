@@ -3,7 +3,7 @@ layout: post
 title: Artificial Intelligence
 date: 2022-04-23
 description:
-img: ai.png
+img: ai.webp
 tags: [Project]
 ---
 
@@ -19,7 +19,7 @@ We learned the basics of efficient search algorthims, constraint satisfaction pr
 - Uses Uniform Cost Search and Heuristic Search considering that the robot expends and gains depending if it is going up or down respectively.
 
 <div class="gif-container">
-  <img src="../assets/gif/marsShortestPath.gif" alt="Bouncing Head Game Demo" height="" width=""/>
+  <img src="../assets/gif/marsShortestPath.webp" alt="Bouncing Head Game Demo" height="" width=""/>
 </div>
 
 #### Seduku Solver
@@ -27,7 +27,7 @@ We learned the basics of efficient search algorthims, constraint satisfaction pr
 The demo solves the [Hardest-Ever Seduku].
 
 <div class="gif-container">
-  <img src="../assets/gif/sedukuSolver.gif" alt="Bouncing Head Game Demo" height="" width=""/>
+  <img src="../assets/gif/sedukuSolver.webp" alt="Bouncing Head Game Demo" height="" width=""/>
 </div>
 
 #### Self-driving Car
@@ -35,7 +35,7 @@ The demo solves the [Hardest-Ever Seduku].
 Car must not leave the road or hit junk on the road.
 
 <div class="gif-container">
-  <img src="../assets/gif/selfDrivingCar.gif" alt="Self Driving Car"/>
+  <img src="../assets/gif/selfDrivingCar.webp" alt="Self Driving Car"/>
 </div>
 
 ### Projects

@@ -3,9 +3,9 @@ layout: post
 title: Undergraduate Education
 date: 2022-08-22
 description: University of Toronto
-imgSmall: uoftSmall.png
-img: uoft.png
-imgBig: uoftBig.png
+imgSmall: uoftSmall.webp
+img: uoft.webp
+imgBig: uoftBig.webp
 tags: [Academic]
 ---
 
@@ -17,7 +17,7 @@ Honours Bachelor of Science from University of Toronto 2018-2022
 - Statistics Specialist - Machine Learning and Data Mining Stream
 - [Lester B. Pearson Scholar](https://future.utoronto.ca/pearson/2018-scholars/)
 - University of Toronto Scarborough Dean's List
-- cGPA: 3.8 (out of 4)
+- cGPA: 3.80 (out of 4)
 - Graduated with High Distinction
 
 ### Courses

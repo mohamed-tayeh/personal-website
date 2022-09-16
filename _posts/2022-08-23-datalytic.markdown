@@ -3,9 +3,9 @@ layout: post
 title: Datalytic
 date: 2022-08-23
 description: Social Media Customer Feedback Analysis
-imgSmall: datalyticSmall.png
-img: datalytic.png
-imgBig: datalyticBig.png
+imgSmall: datalyticSmall.webp
+img: datalytic.webp
+imgBig: datalyticBig.webp
 tags: [Project]
 ---
 

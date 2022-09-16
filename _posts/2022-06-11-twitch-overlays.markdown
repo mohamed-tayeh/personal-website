@@ -3,7 +3,7 @@ layout: post
 title: Twitch Overlays
 date: 2022-06-11
 description:
-img: twitch.png
+img: twitch.webp
 tags: [Project]
 ---
 
@@ -17,13 +17,13 @@ Overlays:
 Minimal Pomodoro Timer Demo (sped up):
 
 <div class="gif-container">
-  <img src="../assets/gif/minimalPomoTimer.gif" alt="Minimal Pomodoro Timer" width="600px" height="328px" />
+  <img src="../assets/gif/minimalPomoTimer.webp" alt="Minimal Pomodoro Timer" width="600px" height="328px" />
 </div>
 
 Forest Overlay Demo:
 
 <div class="gif-container">
-  <img src="../assets/gif/forestOverlay.gif" alt="Forest Overlay" width="600px" height="328px"/>
+  <img src="../assets/gif/forestOverlay.webp" alt="Forest Overlay" width="600px" height="328px"/>
 </div>
 
 ### Technology used

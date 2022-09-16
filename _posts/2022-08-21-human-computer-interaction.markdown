@@ -3,7 +3,7 @@ layout: post
 title: Human Computer Interaction
 date: 2022-08-21
 description: A redesign of Canada.ca
-img: hci.jpeg
+img: hci.webp
 tags: [Project]
 ---
 
@@ -18,12 +18,12 @@ Design demo:
 <div class="multiple-demo-container">
   <div class="demo-with-title">
     <div class="title">Canada.ca</div>
-    <img src="../assets/img/canadaca.png" class="border" width="470px" height="510px" alt="Canada.ca"/>
+    <img src="../assets/img/canadaca.webp" class="border" width="470px" height="510px" alt="Canada.ca"/>
   </div>
 
   <div class="demo-with-title">
     <div class="title">Prototype</div>
-    <img src="../assets/img/prototype.png" class="border" width="470px" height="510px" alt="Prototype"/>
+    <img src="../assets/img/prototype.webp" class="border" width="470px" height="510px" alt="Prototype"/>
   </div>
 </div>
 

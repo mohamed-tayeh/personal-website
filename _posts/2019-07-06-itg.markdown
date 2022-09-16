@@ -3,7 +3,7 @@ layout: post
 title: Integrated Technology Group (ITG)
 date: 2019-07-06
 description: Frontend Intern
-img: itg.png
+img: itg.webp
 tags: [Work]
 ---
 
@@ -17,7 +17,7 @@ Frontend Developer Intern &#8226; June 2019 - July 2019
 Demo:
 
 <div class="center">
-  <img src="../assets/img/itgDemo.png" alt="ITG Demo"/>
+  <img src="../assets/img/itgDemo.webp" alt="ITG Demo"/>
 </div>
 
 ### Technology used

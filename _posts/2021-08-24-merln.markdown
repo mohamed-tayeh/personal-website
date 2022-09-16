@@ -3,9 +3,9 @@ layout: post
 title: Temerity Analytics Inc.
 date: 2021-08-24
 description: Full Stack Developer and Data Analyst
-imgSmall: merlnSmall.png
-img: merln.png
-imgBig: merlnBig.png
+imgSmall: merlnSmall.webp
+img: merln.webp
+imgBig: merlnBig.webp
 tags: [Work]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Twitch Translator Bot
 date: 2022-06-11
 description: Twitch chat bot for translation
-img: twitchTranslator.png
+img: twitchTranslator.webp
 tags: [Project]
 ---
 
@@ -16,7 +16,7 @@ The source code is currently private but I am working on making it public.
 Demo:
 
 <div class="gif-container">
-  <img src="../assets/gif/twitchTranslator.gif" alt="Twitch Translator" height="588px" width="244px"/>
+  <img src="../assets/gif/twitchTranslator.webp" alt="Twitch Translator" height="588px" width="244px"/>
 </div>
 
 ### Technology used

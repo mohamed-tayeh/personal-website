@@ -3,7 +3,7 @@ layout: post
 title: Coding Club
 date: 2018-01-28
 description: Creating an opportunity to learn how to code
-img: codingClub.png
+img: codingClub.webp
 tags: [Project]
 ---
 
@@ -16,7 +16,7 @@ The final project of the club was to create a bouncing head game using Pygame, w
 Final Project Demo:
 
 <div class="gif-container">
-  <img src="../assets/gif/bouncingHeadGame.gif" class="border" alt="Bouncing Head Game Demo" height="469px" width="598px"/>
+  <img src="../assets/gif/bouncingHeadGame.webp" class="border" alt="Bouncing Head Game Demo" height="469px" width="598px"/>
 </div>
 
 ### Technology used

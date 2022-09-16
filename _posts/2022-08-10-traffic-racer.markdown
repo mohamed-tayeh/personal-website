@@ -3,7 +3,7 @@ layout: post
 title: Traffic Racer - MIPS Assembly
 date: 2022-08-10
 description: CSCB58 MIPS Assembly Project
-img: trafficracerEnhanced.png
+img: trafficracerEnhanced.webp
 tags: [Project]
 ---
 
