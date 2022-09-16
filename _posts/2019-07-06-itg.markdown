@@ -7,9 +7,18 @@ img: itg.png
 tags: [Work]
 ---
 
-June 2019 - July 2019
+Frontend Developer Intern &#8226; June 2019 - July 2019
 
-Used to a learn-by-doing strategy to achieve a basic skill level in HTML, CSS and Bootstrap under supervision. The end goal was to code a responsive homepage replica of an official website that was made by [ITG] to achieve a beginner skill level in HTML, CSS and Bootstrap.
+### Summary
+
+- Used to a learn-by-doing strategy to achieve a basic skill level in HTML, CSS and Bootstrap under supervision.
+- Coded a responsive homepage replica of an official website made by [ITG].
+
+Demo:
+
+<div class="center">
+  <img src="../assets/img/itgDemo.png" alt="ITG Demo"/>
+</div>
 
 ### Technology used
 
