@@ -26,7 +26,7 @@ Forest Overlay Demo:
   <img src="../assets/gif/forestOverlay.gif" alt="Forest Overlay" width="600px" height="328px"/>
 </div>
 
-### **Technology used:**
+### Technology used
 
 ```
 Javascript

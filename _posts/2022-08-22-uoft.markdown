@@ -8,3 +8,138 @@ img: uoft.png
 imgBig: uoftBig.png
 tags: [Academic]
 ---
+
+### Summary
+
+Honours Bachelor of Science from University of Toronto 2018-2022
+
+- Computer Science Major
+- Statistics Specialist - Machine Learning and Data Mining Stream
+- [Lester B. Pearson Scholar](https://future.utoronto.ca/pearson/2018-scholars/)
+- University of Toronto Scarborough Dean's List
+- cGPA: 3.8 (out of 4)
+- Graduated with High Distinction
+
+### Courses
+
+Ordered by most recent.
+
+#### Computer Science
+
+[CSC373] - Algorithm Design, Analysis & Complexity
+
+[CSCC01] - Introduction to Software Engineering
+
+[CSCC10] - Human-Computer Interaction
+
+[CSCB58] - Computer Organization
+
+[CSCC09] - Programming on the Web
+
+[CSCD84] - Artificial Intelligence
+
+[CSCC37] - Introduction to Numerical Algorithms for Computational Mathematics
+
+[CSCC43] - Introduction to Databases
+
+[CSCC11] - Introduction to Machine Learning and Data Mining
+
+[CSCB63] - Design and Analysis of Data Structures
+
+[CSCB09] - Software Tools and Systems Programming
+
+[CSCB07] - Software Design
+
+[CSCB36] - Introduction to the Theory of Computation
+
+[CSCA48] - Introduction to Computer Science II
+
+[CSCA67] - Discrete Mathematics
+
+[CSCA08] - Introduction to Computer Science I
+
+#### Statistics
+
+[STAD80] - Analysis of Big Data
+
+[STAC33] - Introduction to Applied Statistics
+
+[STAD78] - Machine Learning Theory
+
+[STAD37] - Multivariate Analysis
+
+[STAC58] - Statistical Inference
+
+[STAC67] - Regression Analysis
+
+[STAA57] - Introduction to Data Science
+
+[STAC62] - Probability and Stochastic Processes I
+
+[STAB57] - An Introduction to Statistics
+
+[STAB52] - An Introduction to Probability
+
+#### Mathematics
+
+[MATB61] - Linear Programming and Optimization
+
+[MATB24] - Linear Algebra II
+
+[MATB41] - Techniques of the Calculus of Several Variables I
+
+[MATA22] - Linear Algebra I for Mathematical Sciences
+
+[MATA37] - Calculus II for Mathematical Sciences
+
+[MATA31] - Calculus I for Mathematical Sciences
+
+#### Other
+
+[ACTB40] - Fundamentals of Investment and Credit
+
+[ANTA02] - Introduction to Anthropology: Society, Culture and Language
+
+[MGEA05] - Introduction to Macroeconomics
+
+[CLAA05] - Ancient Mythology I: Mesopotamia and Egypt
+
+[ENGA01] - What Is Literature?
+
+[csc373]: https://artsci.calendar.utoronto.ca/course/csc373h1
+[cscc01]: https://utsc.calendar.utoronto.ca/course/cscc01h3
+[cscc10]: https://utsc.calendar.utoronto.ca/course/cscc10h3
+[cscc09]: https://utsc.calendar.utoronto.ca/course/CSCC09h3
+[cscd84]: https://utsc.calendar.utoronto.ca/course/CSCD84h3
+[cscc37]: https://utsc.calendar.utoronto.ca/course/CSCC37h3
+[cscc43]: https://utsc.calendar.utoronto.ca/course/CSCC43h3
+[cscc11]: https://utsc.calendar.utoronto.ca/course/CSCC11h3
+[cscb63]: https://utsc.calendar.utoronto.ca/course/CSCB63h3
+[cscb09]: https://utsc.calendar.utoronto.ca/course/CSCB09h3
+[cscb07]: https://utsc.calendar.utoronto.ca/course/CSCB07h3
+[cscb36]: https://utsc.calendar.utoronto.ca/course/CSCB36h3
+[cscb58]: https://utsc.calendar.utoronto.ca/course/CSCB58h3
+[csca48]: https://utsc.calendar.utoronto.ca/course/CSCA48h3
+[csca67]: https://utsc.calendar.utoronto.ca/course/CSCA67h3
+[csca08]: https://utsc.calendar.utoronto.ca/course/CSCA08h3
+[stad80]: https://utsc.calendar.utoronto.ca/course/STAD80h3
+[stac33]: https://utsc.calendar.utoronto.ca/course/STAC33h3
+[stad78]: https://utsc.calendar.utoronto.ca/course/STAD78h3
+[stad37]: https://utsc.calendar.utoronto.ca/course/STAD37h3
+[stac58]: https://utsc.calendar.utoronto.ca/course/STAC58h3
+[stac67]: https://utsc.calendar.utoronto.ca/course/STAC67h3
+[staa57]: https://utsc.calendar.utoronto.ca/course/STAA57h3
+[stac62]: https://utsc.calendar.utoronto.ca/course/STAC62h3
+[stab57]: https://utsc.calendar.utoronto.ca/course/STAB57h3
+[stab52]: https://utsc.calendar.utoronto.ca/course/STAB52h3
+[actb40]: https://utsc.calendar.utoronto.ca/course/ACTB40h3
+[matb61]: https://utsc.calendar.utoronto.ca/course/MATB61h3
+[matb24]: https://utsc.calendar.utoronto.ca/course/MATB24h3
+[matb41]: https://utsc.calendar.utoronto.ca/course/MATB41h3
+[anta02]: https://utsc.calendar.utoronto.ca/course/ANTA02h3
+[mata22]: https://utsc.calendar.utoronto.ca/course/MATA22h3
+[mata37]: https://utsc.calendar.utoronto.ca/course/MATA37h3
+[mgea05]: https://utsc.calendar.utoronto.ca/course/MGEA05h3
+[mata31]: https://utsc.calendar.utoronto.ca/course/MATA31h3
+[claa05]: https://utsc.calendar.utoronto.ca/course/CLAA05h3
+[enga01]: https://utsc.calendar.utoronto.ca/course/ENGA01h3
