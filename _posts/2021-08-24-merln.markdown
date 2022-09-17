@@ -13,15 +13,17 @@ Full Stack Developer & Data Analyst &#8226; May 2020 - August 2021
 
 ### Summary
 
-- Developed and co-designed 2 pages deemed essential by clients that included: filtering capcability, Google Map and charts that depend on map navigation.
+- add summary sentence here
+
+- Developed and co-designed 2 pages deemed essential by clients that included: filtering capability, Google Map and charts that depend on map navigation.
 - Refactored, documented and tested over 100 Django RESTful APIs to improve speed performance by 70%.
-- Integrated a Google Maps library in 7 pages throughout the platform.
+- Integrated Google Maps library in 7 pages throughout the platform.
 - Proposed a new QA testing method that has become a weekly standard procedure, leading to a faster uncovering of bugs and a more stable code base.
 - Proposed and developed a documentation project to improve website documentation for the end client and to capture all code best practices for the development team.
 - Won hackathon for adding a key feature that clients (hackathon judges) deemed necessary.
 - Researched, obtained and cleaned key datasets used through all map features on the platform.
 
-Unfortunately no pictures or business details can be shared with regards to the features I developed.
+Unfortunately no pictures or business logic can be shared with regards to the features I developed.
 
 ### Technology used
 
