@@ -1,9 +1,9 @@
 title: Mohamed Tayeh
-email: mohamedntayeh@gmail.com
+email: mohamedtayeh@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mohamed Tayeh is a Lester B. Pearson scholar and new graduate from University of Toronto with an Honours of Bachelor Science. He completed 
+  a Computer Science Major and Statistics Specialist (Data Mining and Machine Learning) and is now pursuing his
+  career in software engineering.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mohamedtayeh.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -14,7 +14,7 @@ author-pic: mohamedTayeh.webp
 about-author: Computer Science Major and Statistics Specialist (Data Mining and Machine Learning) 
 
 # Contact links
-email: mohamedntayeh@gmail.com # Add your Email address
+email: mohamedtayeh@outlook.com # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: mohamed-tayeh # Add your Linkedin handle
