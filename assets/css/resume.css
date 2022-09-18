@@ -1,6 +1,5 @@
-.resume {
-  height: 1300px;
-  width: 1024px;
-  border: none;
-  scroll-behavior: none;
+#adobe-dc-view {
+  height: 1135px;
+  width: 100%;
+  margin: 10px 0;
 }
