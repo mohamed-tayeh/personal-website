@@ -1,8 +1,17 @@
-#adobe-dc-view {
-  height: 1160px;
+.resume-wrapper {
+  display: flex;
+  justify-content: center;
 
-  max-width: 902px;
+  height: 100%;
   width: 100%;
+  min-height: 1200px;
+  min-width: 930px;
+}
+
+#adobe-dc-view {
+  height: 1200px;
+  width: 100%;
+  max-width: 930px;
 
   margin: 10px 0;
 }
