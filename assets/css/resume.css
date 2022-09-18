@@ -1,9 +1,8 @@
 #adobe-dc-view {
-  height: 100%;
-  width: 100%;
+  height: 1160px;
 
-  max-height: 1136px;
-  max-width: 881px;
+  max-width: 902px;
+  width: 100%;
 
   margin: 10px 0;
 }
