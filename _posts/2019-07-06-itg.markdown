@@ -11,6 +11,8 @@ Frontend Developer Intern &#8226; June 2019 - July 2019
 
 ### Summary
 
+- [ITG] is an E-Learning Providers company focusing on technical solutions.
+
 - Used to a learn-by-doing strategy to achieve a basic skill level in HTML, CSS and Bootstrap under supervision.
 - Coded a responsive homepage replica of an official website made by [ITG].
 

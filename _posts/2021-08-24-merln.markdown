@@ -13,7 +13,7 @@ Full Stack Developer & Data Analyst &#8226; May 2020 - August 2021
 
 ### Summary
 
-- add summary sentence here
+- [Temerity Analytics] is a marketing cloud services provider start-up
 
 - Developed and co-designed 2 pages deemed essential by clients that included: filtering capability, Google Map and charts that depend on map navigation.
 - Refactored, documented and tested over 100 Django RESTful APIs to improve speed performance by 70%.
@@ -44,3 +44,5 @@ Cloud:
 Data Analytics:
   - R
 ```
+
+[temerity analytics]: https://temerityanalytics.com/
