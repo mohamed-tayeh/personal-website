@@ -7,7 +7,7 @@ img: itg.webp
 tags: [Work]
 ---
 
-Frontend Developer Intern &#8226; June 2019 - July 2019
+Frontend Developer Intern &#8226; July 2019 - August 2019
 
 ### Summary
 
