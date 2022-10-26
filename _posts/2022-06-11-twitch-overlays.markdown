@@ -34,5 +34,5 @@ tmi.js
 ```
 
 [pomodoro technique]: https://www.techtarget.com/whatis/definition/pomodoro-technique#:~:text=The%20pomodoro%20technique%20is%20a,completion%20of%20four%20work%20periods.
-[my stream]: https://www.twitch.tv/moh__t
+[my stream]: https://www.twitch.tv/{{site.twitch}}
 [forest app]: https://www.forestapp.cc/

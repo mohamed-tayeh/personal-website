@@ -26,5 +26,5 @@ Javascript
 Google Translate API
 ```
 
-[my stream]: https://www.twitch.tv/moh__t
+[my stream]: https://www.twitch.tv/{{site.twitch}}
 [here]: https://developers.google.com/admin-sdk/directory/v1/languages
