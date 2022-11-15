@@ -7,11 +7,11 @@ img: twitchTranslator.webp
 tags: [Project]
 ---
 
-This is a simple translator bot that I use for [my stream] to communicate with viewers from different backgrounds where English is not their first language. It currently supports all languages supported by google translate found [here].
+This is a translator chatbot that I use for [my stream] to communicate with viewers from different backgrounds where English is not their first language. It currently supports all languages supported by [Argos Translate] (open source translation model).
 
-It is currently being used by 35 streamers (including myself).
+It is currently being used by over 130 streamers (including myself).
 
-The source code is currently private but I am working on making it public.
+The source code is private to avoid forks.
 
 Demo:
 
@@ -22,9 +22,22 @@ Demo:
 ### Technology used
 
 ```
-Javascript
-Google Translate API
+Backend:
+  - TypeScript
+  - NodeJS
+  - WebSockets
+  - gRPC
+  - Twurple Library (Twitch Helix API)
+  - Object Oriented Programming Software Paradigm
+Translation ML Model:
+  - ArgosTranslate Open Source Model
+Deployment:
+  - Microservice Architecture
+  - Docker
+  - Digital Ocean
+  - GitHub Actions
+  - Nektos/act
 ```
 
 [my stream]: https://www.twitch.tv/{{site.twitch}}
-[here]: https://developers.google.com/admin-sdk/directory/v1/languages
+[argos translate]: https://github.com/argosopentech/argos-translate
