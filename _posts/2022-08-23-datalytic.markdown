@@ -19,7 +19,7 @@ Motivation and Project Description:
 - There are already existing platforms that provide businesses with a unified source to gather this data, as well as mine information from it. One example is Microsoft Dynamics 365 that has this capability, however it costs $1,500 per user to obtain and understand this feedback - making it an infeasible expense for small businesses, startups and content creators.
 - Our platform would provide this audience with a tool that acts as a unified source to obtain this information and make sense of it, especially to small business owners and content-creators.
 
-[Website] &#8226; [Source Code]
+[Source Code]
 
 A big thank you to my group for making this possible:
 

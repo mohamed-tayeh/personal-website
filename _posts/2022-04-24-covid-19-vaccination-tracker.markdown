@@ -11,7 +11,7 @@ This was a self-driven project as part of our [CSCC09] course (Programming on th
 
 The motivation was to simplify the COVID-19 vaccination statistics for anyone to understand, even without being statisticically or mathematically oreinted. Due to the global nature, we implemented internationalization to broaden the target audience.
 
-[Website] &#8226; [Source Code]
+[Source Code]
 
 Thank you to everyone who I have worked with to achieve this goal!
 
