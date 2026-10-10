@@ -1,0 +1,35 @@
+---
+layout: post
+title: Workorb Inc.
+date: 2025-05-31
+description: Software Engineer
+img: ai.webp
+tags: [Work]
+---
+
+Software Engineer &#8226; Jan 2023 - May 2025
+
+### Summary
+
+- [Workorb] is a Toronto-based AI startup building proposal automation software for architecture, engineering, and construction firms.
+
+- Built an RFP Q&A page for AEC firms: upload a 100-page RFP or RFQ, select from a question bank of around 15 questions, and get cited answers, powered by a multi-step LLM workflow designed for accuracy.
+- Led Microsoft 365 data ingestion using the Microsoft Graph API, collecting data for over 400 users.
+- Led Slack data ingestion and built an LLM-powered Slack chat bot.
+- Indexed client data with the OpenSearch API to enable efficient search.
+- Led frontend React development: created over 12 user-facing pages and drove reusable component design and React hooks.
+- Built internal dashboards to monitor data ingestion from multiple sources, with confidential information redaction.
+- Led research and development on third-party services to enrich client data and monitor the platform.
+
+### Technology used
+
+```
+TypeScript
+React
+OpenSearch
+Microsoft Graph API
+Slack API
+LLM integrations
+```
+
+[workorb]: https://www.workorb.com/
