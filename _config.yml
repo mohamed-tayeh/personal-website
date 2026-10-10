@@ -1,9 +1,10 @@
 title: Mohamed Tayeh
 email: mohamedtayeh@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Mohamed Tayeh is a Lester B. Pearson scholar and new graduate from University of Toronto with an Honours of Bachelor Science. He completed 
-  a Computer Science Major and Statistics Specialist (Data Mining and Machine Learning) and is now pursuing his
-  career in software engineering.
+  Mohamed Tayeh is a Lester B. Pearson Scholar and University of Toronto Honours B.S. graduate
+  (Computer Science Major, Statistics Specialist in Machine Learning and Data Mining).
+  Software Engineer at DoorDash in Toronto, with a passion for startups, including Workorb,
+  where he built AI tools for architecture, engineering, and construction.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mohamedtayeh.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +12,7 @@ url: "https://mohamedtayeh.com" # the base hostname & protocol for your site, e.
 # Author settings
 author: Mohamed Tayeh 
 author-pic: mohamedTayeh.webp
-about-author: Software Engineer at a stealth start-up
+about-author: Software Engineer at DoorDash
 
 # Contact links
 email: mohamedtayeh@outlook.com # Add your Email address
