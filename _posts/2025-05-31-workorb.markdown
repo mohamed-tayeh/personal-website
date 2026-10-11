@@ -3,7 +3,7 @@ layout: post
 title: Workorb Inc.
 date: 2025-05-31
 description: Software Engineer
-img: ai.webp
+img: workorb.png
 tags: [Work]
 ---
 
